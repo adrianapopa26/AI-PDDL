@@ -1,0 +1,8 @@
+(turn-on-center-leftoff-rightoff-upoff-downoff row2 col2 col1 col3 row1 row3)
+(turn-on-leftedge-rightoff-upon-downon row2 col1 col2 row1 row3)
+(turn-on-rightdowncorner-lefton-upon row3 col3 col2 row2)
+(turn-on-center-leftoff-rightoff-upon-downoff row2 col2 col1 col3 row1 row3)
+(turn-off-upedge-leftoff-righton-downoff row1 col2 col1 col3 row2)
+(turn-on-rightedge-lefton-upoff-downoff row2 col3 col2 row1 row3)
+(turn-on-downedge-leftoff-righton-upoff row3 col2 col1 col3 row2)
+(turn-off-rightdowncorner-leftoff-upoff row3 col3 col2 row2) 

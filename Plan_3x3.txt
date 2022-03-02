@@ -1,0 +1,1 @@
+(turn-off-center-leftoff-rightoff-upoff-downoff row2 col2 col1 col3 row1 row3)

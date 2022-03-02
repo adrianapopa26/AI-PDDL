@@ -1,0 +1,2 @@
+(turn-off-leftedge-rightoff-upoff-downoff row2 col1 col2 row1 row3)
+(turn-off-rightupcorner-leftoff-downoff row1 col3 col2 row2)
